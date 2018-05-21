@@ -1,0 +1,27 @@
+p,li,tr, a 
+{
+	color: yellow;
+}
+p,li,tr
+{
+	border-style: solid;
+	border-color: #c1ff33;	
+}
+h1,h2,td
+{
+	color: yellow;
+	border-style: dotted;
+	border-width: 3px;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	border-color: #c1ff33;
+}
+.active
+{
+	color: black;
+}
+body
+{
+	background: #ff33e0;
+	
+}
